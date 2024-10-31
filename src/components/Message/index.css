@@ -1,0 +1,11 @@
+.message {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 20px;
+}
+
+@media screen and (min-width: 768px) {
+  .message {
+    font-size: 35px;
+  }
+}
